@@ -18,6 +18,7 @@ public class Hoang107250 {
         System.out.println("Full Name: " +FullName);
        
         System.out.println("Date Of Birth: " +DateOfBirth);
+       
         System.out.println("Ages: " +Ages);
        
         System.out.println("Sex: " +Sex(Sex));
